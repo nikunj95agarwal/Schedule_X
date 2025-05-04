@@ -1,0 +1,10 @@
+{
+  "/api/auth/[kindeAuth]/route": "app/api/auth/[kindeAuth]/route.js",
+  "/(routes)/confirmation/page": "app/(routes)/confirmation/page.js",
+  "/page": "app/page.js",
+  "/(routes)/[business]/[meetingEventId]/page": "app/(routes)/[business]/[meetingEventId]/page.js",
+  "/(routes)/dashboard/meeting-type/page": "app/(routes)/dashboard/meeting-type/page.js",
+  "/(routes)/dashboard/page": "app/(routes)/dashboard/page.js",
+  "/(routes)/dashboard/scheduled-meeting/page": "app/(routes)/dashboard/scheduled-meeting/page.js",
+  "/(routes)/dashboard/availability/page": "app/(routes)/dashboard/availability/page.js"
+}
